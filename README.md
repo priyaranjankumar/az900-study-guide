@@ -30,5 +30,5 @@
 ### **Extra Resources:**
 
 - [CRAM Video](https://www.youtube.com/watch?v=8n-kWJetQRk)
-- [Microsoft Learn](https://learn.microsoft.com/en-us/training/certifications/azure-fundamentals/)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 - [OnboardAzure](https://learn.onboardtoazure.com/)
